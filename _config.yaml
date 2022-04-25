@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "blog."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "omnipede"
@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "omnipede"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Testing."
-  location         : "Somewhere"
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "SWE."
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
